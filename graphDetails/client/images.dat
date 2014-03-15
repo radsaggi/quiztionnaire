@@ -1,0 +1,17 @@
+transparency-float-0.7
+question-String-data\\question back.jpg
+info-String-data\\info back.jpg
+result-String-data\\result back.jpg
+answer red red-int-255
+answer red blue-int-0
+answer red green-int-0
+answer green green-int-255
+answer green red-int-0
+answer green blue-int-0
+answer pause-int-55
+answer start blur-float-0.0
+answer stop blur-float-0.4
+answer diff blur-float-0.01
+back red-int-225
+back green-int-225
+back blue-int-225

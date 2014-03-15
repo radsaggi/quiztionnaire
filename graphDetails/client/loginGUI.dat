@@ -1,0 +1,20 @@
+title-String-Enter login details:
+username-String-Username : 
+password-String-Password : 
+processing-String-Connecting....    Please wait.
+x axis-Integer-300
+y axis-Integer-300
+width-Integer-400
+height-Integer-200
+lower animation value-float-0.1
+upper animation value-float-0.7
+difference animation value-float-0.01
+entry red-int-226
+entry blue-int-75
+entry green-int-239
+background image-String-data\\login back.jpg
+background image pause-Integer-50
+entry red2-int-236
+entry blue2-int-79
+entry green2-int-189
+loading-String-Trying to establish connection to SERVER.  Please Wait.
